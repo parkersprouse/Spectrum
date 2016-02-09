@@ -3,3 +3,5 @@ Spectrum is a puzzle platformer created in Unity. It's a heavy WIP, but it's an 
 Currently, the only things that are implemented are the movement and collision, a couple of platforms for the first level, and the logic of the characters leaving a trail behind them, and other characters interacting with those trails.
 
 - Parker Sprouse - Programming / Design / Artist
+
+Most recent build: [Download](http://parkersprouse.me/games/spectrum/build/SpectrumBuild.zip)
