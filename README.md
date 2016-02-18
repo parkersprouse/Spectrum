@@ -4,4 +4,4 @@ Currently, the only things that are implemented are the movement and collision, 
 
 - Parker Sprouse - Programming / Design / Artist
 
-Most recent build: [Download](http://parkersprouse.me/games/spectrum/build/SpectrumBuild.zip)
+Most recent build: [Download](https://github.com/parkersprouse/Spectrum/releases/tag/v0.1.0-prototype)
